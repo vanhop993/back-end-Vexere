@@ -1,0 +1,5 @@
+{
+    "dbUrl":"mongodb+srv://vanhop993:abcd!1234@cluster0.w4cet.mongodb.net/VexereCuoiKhoa?retryWrites=true&w=majority",
+    "port":3000,
+    "jwtSignature":"vexereapi"
+}
